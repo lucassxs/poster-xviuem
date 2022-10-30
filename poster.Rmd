@@ -1,15 +1,15 @@
 ---
-title: A Better Reproducible Poster Title
+title: WeatherMaringa - R Package
 author:
-  - name: Brent Thorne
+  - name: Lucas Stefano
     affil: 1
-    twitter: brentthorne18
-    email: brentthorne18@gmail.com
-    orcid: 0000-0002-1099-3857
+    main: true
+  - name: Brian Melo
+    affil: 1
     main: true
 affiliation:
   - num: 1
-    address: Department of Earth Sceicnes, Brock University
+    address: Departamento de Estatística - Universidade Estadual de Maringá
 main_findings:
   - "Make **better posters** with RMarkdown + **posterdown**."
   - '![](https://raw.githubusercontent.com/brentthorne/posterdown/master/images/betterhexlogo.png){.main_pic}'
